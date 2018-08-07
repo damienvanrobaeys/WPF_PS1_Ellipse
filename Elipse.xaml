@@ -5,7 +5,7 @@
         xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
 		xmlns:Dialog="clr-namespace:MahApps.Metro.Controls.Dialogs;assembly=MahApps.Metro"	
 		xmlns:local="clr-namespace:Dialog"		
-        Title="Listview test" 
+        Title="Ellipse test" 
         Width="440" 
         Height="300"  
 		ResizeMode="NoResize"	
